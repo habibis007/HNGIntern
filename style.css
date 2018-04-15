@@ -1,0 +1,17 @@
+.body{
+    background-color: #46CCF8;
+    background-blend-mode: soft-light;
+  
+}
+
+.img{
+    width:100%; 
+    border-radius: 50%;
+    height:35%;
+
+}
+
+.time{
+    font-size: 48px;
+    
+}
